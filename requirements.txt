@@ -1,1 +1,1 @@
-pip_install_from_gh_producer @ git+ssh://git@github.com/EricRobertCampbell/pip-install-from-gh-producer.git@9b9589ba08143da1c0420c19fb551c0e88a2b773#egg=pip_install_from_gh_producer
+pip_install_from_gh_producer @ git+ssh://git@github.com/EricRobertCampbell/pip-install-from-gh-producer.git#egg=pip_install_from_gh_producer
